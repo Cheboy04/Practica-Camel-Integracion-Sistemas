@@ -1,0 +1,5 @@
+id_estudiante,nombre,motivo_error
+104,Pedro Lopez,ESTUDIANTE_RETIRADO
+106,Juan Perez,VALOR_INVALIDO
+108,,NOMBRE_VACIO
+103,Mariana Paz,ID_DUPLICADO
