@@ -1,0 +1,11 @@
+id_estudiante,nombre,carrera,valor_matricula,beca,estado
+101,Ana Torres,Software,850.00,S,MATRICULADO
+102,Carlos Ruiz,Medicina,1200.00,N,MATRICULADO
+103,Maria Paz,Software,950.00,S,MATRICULADO
+104,Pedro Lopez,Derecho,750.00,N,RETIRADO
+105,Luisa Mora,Arquitectura,1100.00,S,MATRICULADO
+106,Juan Perez,Software,,N,MATRICULADO
+107,Sofia Diaz,Medicina,1250.00,N,MATRICULADO
+108,,Derecho,800.00,S,MATRICULADO
+103,Mariana Paz,Software,950.00,N,MATRICULADO
+109,Andres Vega,Arquitectura,900.00,N,MATRICULADO
